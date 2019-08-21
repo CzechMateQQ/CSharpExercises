@@ -1,0 +1,4 @@
+debug.pdb
+Release/
+*.pdb
+debug.*

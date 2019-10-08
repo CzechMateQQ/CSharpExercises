@@ -1,0 +1,2 @@
+C:\Users\s199083\source\repos\CSharpExercises\PointsAndVectors\obj\Debug\PointsAndVectors.csprojAssemblyReference.cache
+C:\Users\s199083\source\repos\CSharpExercises\PointsAndVectors\obj\Debug\PointsAndVectors.csproj.CoreCompileInputs.cache

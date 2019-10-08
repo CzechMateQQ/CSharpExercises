@@ -1,0 +1,2 @@
+C:\Users\s199083\source\repos\CSharpExercises\HackerRank\obj\Debug\HackerRank.csprojAssemblyReference.cache
+C:\Users\s199083\source\repos\CSharpExercises\HackerRank\obj\Debug\HackerRank.csproj.CoreCompileInputs.cache

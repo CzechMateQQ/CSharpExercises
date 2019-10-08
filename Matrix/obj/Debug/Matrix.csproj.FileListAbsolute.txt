@@ -1,0 +1,7 @@
+C:\Users\s199083\source\repos\CSharpExercises\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\s199083\source\repos\CSharpExercises\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\s199083\source\repos\CSharpExercises\Matrix\bin\Debug\Matrix.exe
+C:\Users\s199083\source\repos\CSharpExercises\Matrix\bin\Debug\Matrix.pdb
+C:\Users\s199083\source\repos\CSharpExercises\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\s199083\source\repos\CSharpExercises\Matrix\obj\Debug\Matrix.exe
+C:\Users\s199083\source\repos\CSharpExercises\Matrix\obj\Debug\Matrix.pdb

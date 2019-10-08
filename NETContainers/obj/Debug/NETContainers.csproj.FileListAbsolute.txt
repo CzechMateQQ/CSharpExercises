@@ -1,0 +1,7 @@
+C:\Users\s199083\source\repos\CSharpExercises\NETContainers\bin\Debug\NETContainers.exe.config
+C:\Users\s199083\source\repos\CSharpExercises\NETContainers\bin\Debug\NETContainers.exe
+C:\Users\s199083\source\repos\CSharpExercises\NETContainers\bin\Debug\NETContainers.pdb
+C:\Users\s199083\source\repos\CSharpExercises\NETContainers\obj\Debug\NETContainers.csprojAssemblyReference.cache
+C:\Users\s199083\source\repos\CSharpExercises\NETContainers\obj\Debug\NETContainers.csproj.CoreCompileInputs.cache
+C:\Users\s199083\source\repos\CSharpExercises\NETContainers\obj\Debug\NETContainers.exe
+C:\Users\s199083\source\repos\CSharpExercises\NETContainers\obj\Debug\NETContainers.pdb

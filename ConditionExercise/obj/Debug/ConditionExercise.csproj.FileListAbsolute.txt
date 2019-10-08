@@ -1,0 +1,7 @@
+C:\Users\s199083\source\repos\CSharpExercises\ConditionExercise\bin\Debug\ConditionExercise.exe.config
+C:\Users\s199083\source\repos\CSharpExercises\ConditionExercise\bin\Debug\ConditionExercise.exe
+C:\Users\s199083\source\repos\CSharpExercises\ConditionExercise\bin\Debug\ConditionExercise.pdb
+C:\Users\s199083\source\repos\CSharpExercises\ConditionExercise\obj\Debug\ConditionExercise.csproj.CoreCompileInputs.cache
+C:\Users\s199083\source\repos\CSharpExercises\ConditionExercise\obj\Debug\ConditionExercise.exe
+C:\Users\s199083\source\repos\CSharpExercises\ConditionExercise\obj\Debug\ConditionExercise.pdb
+C:\Users\s199083\source\repos\CSharpExercises\ConditionExercise\obj\Debug\ConditionExercise.csprojAssemblyReference.cache

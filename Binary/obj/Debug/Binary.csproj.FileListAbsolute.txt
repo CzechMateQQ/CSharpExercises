@@ -1,0 +1,7 @@
+C:\Users\s199083\source\repos\CSharpExercises\Binary\bin\Debug\Binary.exe.config
+C:\Users\s199083\source\repos\CSharpExercises\Binary\bin\Debug\Binary.exe
+C:\Users\s199083\source\repos\CSharpExercises\Binary\bin\Debug\Binary.pdb
+C:\Users\s199083\source\repos\CSharpExercises\Binary\obj\Debug\Binary.csprojAssemblyReference.cache
+C:\Users\s199083\source\repos\CSharpExercises\Binary\obj\Debug\Binary.csproj.CoreCompileInputs.cache
+C:\Users\s199083\source\repos\CSharpExercises\Binary\obj\Debug\Binary.exe
+C:\Users\s199083\source\repos\CSharpExercises\Binary\obj\Debug\Binary.pdb

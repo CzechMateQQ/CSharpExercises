@@ -1,0 +1,7 @@
+C:\Users\s199083\source\repos\CSharpExercises\Trigonometry\bin\Debug\Trigonometry.exe.config
+C:\Users\s199083\source\repos\CSharpExercises\Trigonometry\bin\Debug\Trigonometry.exe
+C:\Users\s199083\source\repos\CSharpExercises\Trigonometry\bin\Debug\Trigonometry.pdb
+C:\Users\s199083\source\repos\CSharpExercises\Trigonometry\obj\Debug\Trigonometry.csprojAssemblyReference.cache
+C:\Users\s199083\source\repos\CSharpExercises\Trigonometry\obj\Debug\Trigonometry.csproj.CoreCompileInputs.cache
+C:\Users\s199083\source\repos\CSharpExercises\Trigonometry\obj\Debug\Trigonometry.exe
+C:\Users\s199083\source\repos\CSharpExercises\Trigonometry\obj\Debug\Trigonometry.pdb

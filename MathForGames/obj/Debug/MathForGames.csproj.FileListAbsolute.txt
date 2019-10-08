@@ -1,0 +1,7 @@
+C:\Users\s199083\source\repos\CSharpExercises\MathForGames\bin\Debug\MathForGames.exe.config
+C:\Users\s199083\source\repos\CSharpExercises\MathForGames\bin\Debug\MathForGames.exe
+C:\Users\s199083\source\repos\CSharpExercises\MathForGames\bin\Debug\MathForGames.pdb
+C:\Users\s199083\source\repos\CSharpExercises\MathForGames\obj\Debug\MathForGames.csprojAssemblyReference.cache
+C:\Users\s199083\source\repos\CSharpExercises\MathForGames\obj\Debug\MathForGames.csproj.CoreCompileInputs.cache
+C:\Users\s199083\source\repos\CSharpExercises\MathForGames\obj\Debug\MathForGames.exe
+C:\Users\s199083\source\repos\CSharpExercises\MathForGames\obj\Debug\MathForGames.pdb

@@ -1,0 +1,7 @@
+C:\Users\s199083\source\repos\CSharpExercises\MagnitudeAndNormalization\bin\Debug\MagnitudeAndNormalization.exe.config
+C:\Users\s199083\source\repos\CSharpExercises\MagnitudeAndNormalization\bin\Debug\MagnitudeAndNormalization.exe
+C:\Users\s199083\source\repos\CSharpExercises\MagnitudeAndNormalization\bin\Debug\MagnitudeAndNormalization.pdb
+C:\Users\s199083\source\repos\CSharpExercises\MagnitudeAndNormalization\obj\Debug\MagnitudeAndNormalization.csprojAssemblyReference.cache
+C:\Users\s199083\source\repos\CSharpExercises\MagnitudeAndNormalization\obj\Debug\MagnitudeAndNormalization.csproj.CoreCompileInputs.cache
+C:\Users\s199083\source\repos\CSharpExercises\MagnitudeAndNormalization\obj\Debug\MagnitudeAndNormalization.exe
+C:\Users\s199083\source\repos\CSharpExercises\MagnitudeAndNormalization\obj\Debug\MagnitudeAndNormalization.pdb

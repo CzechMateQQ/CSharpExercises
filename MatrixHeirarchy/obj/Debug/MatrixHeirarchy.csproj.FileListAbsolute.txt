@@ -1,0 +1,2 @@
+C:\Users\s199083\source\repos\CSharpExercises\MatrixHeirarchy\obj\Debug\MatrixHeirarchy.csprojAssemblyReference.cache
+C:\Users\s199083\source\repos\CSharpExercises\MatrixHeirarchy\obj\Debug\MatrixHeirarchy.csproj.CoreCompileInputs.cache

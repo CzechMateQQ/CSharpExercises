@@ -1,0 +1,2 @@
+C:\Users\s199083\source\repos\CSharpExercises\DotAndCrossProduct\obj\Debug\DotAndCrossProduct.csprojAssemblyReference.cache
+C:\Users\s199083\source\repos\CSharpExercises\DotAndCrossProduct\obj\Debug\DotAndCrossProduct.csproj.CoreCompileInputs.cache

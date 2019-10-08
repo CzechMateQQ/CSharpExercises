@@ -1,0 +1,7 @@
+C:\Users\s199083\source\repos\CSharpExercises\ConditionsADGP\bin\Debug\ConditionsADGP.exe.config
+C:\Users\s199083\source\repos\CSharpExercises\ConditionsADGP\bin\Debug\ConditionsADGP.exe
+C:\Users\s199083\source\repos\CSharpExercises\ConditionsADGP\bin\Debug\ConditionsADGP.pdb
+C:\Users\s199083\source\repos\CSharpExercises\ConditionsADGP\obj\Debug\ConditionsADGP.csprojAssemblyReference.cache
+C:\Users\s199083\source\repos\CSharpExercises\ConditionsADGP\obj\Debug\ConditionsADGP.csproj.CoreCompileInputs.cache
+C:\Users\s199083\source\repos\CSharpExercises\ConditionsADGP\obj\Debug\ConditionsADGP.exe
+C:\Users\s199083\source\repos\CSharpExercises\ConditionsADGP\obj\Debug\ConditionsADGP.pdb
